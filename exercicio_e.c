@@ -91,7 +91,8 @@ int procurar(char codigo[6]) {
 int main() {
     int opcao;
     char codigo[6];
-
+    
+    //menu
     do {
         printf("\n");
         printf("Escolha uma opção:\n");
